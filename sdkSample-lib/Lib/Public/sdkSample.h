@@ -12,7 +12,7 @@
 #define SDK_VERSION @"1.0.0"
 
 /*! SDK 构建ID，每次构建都会增加 */
-#define SDK_BUILD 1007
+#define SDK_BUILD 1008
 
 @interface sdkSample : NSObject
 
