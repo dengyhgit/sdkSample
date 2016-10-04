@@ -1,0 +1,13 @@
+//
+//  Lib-Prefix.pch
+//  sdkSample-lib
+//
+//  Created by deng on 16/9/5.
+//  Copyright © 2016年 dengyonghao. All rights reserved.
+//
+
+#ifndef Lib_Prefix_pch
+#define Lib_Prefix_pch
+
+
+#endif /* Lib_Prefix_pch */

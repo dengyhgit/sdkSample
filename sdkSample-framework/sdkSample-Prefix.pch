@@ -1,0 +1,15 @@
+//
+//  sdkSample-Prefix.pch
+//  sdkSample-framework
+//
+//  Created by deng on 16/9/5.
+//  Copyright © 2016年 dengyonghao. All rights reserved.
+//
+
+#ifndef sdkSample_Prefix_pch
+#define sdkSample_Prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#endif /* sdkSample_Prefix_pch */
